@@ -1,4 +1,4 @@
-Detecting Elements of Claude Model's Boundaries
+Detecting Elements of a Claude Architectural Image Using a Publicly Available Model
 Prerequisites
 To demonstrate the exposure of the model's foundational mechanisms, an ambiguous medical example was chosen as a pretext for further analysis. The ambiguity lies in the probable unreliability of the example's outcomes. This points to a pervasive systemic reaction that manifests even when there is no need for it, since the quality of the medical conclusion allowed for variability. Moreover, such an ambiguous component makes it possible to assess the potential of a perfectly selected example. All the more so, at this stage the user is interested exclusively in detecting factual, logical contradictions. 
 To detect contradictions in the model, carefully verified formulations concerning the essence of the discussion are used. The key query, containing capacity for subsequent development, provides variability of interaction approaches from the user's side. This basic approach was applied to the Claude model within the framework of analyzing permissible boundaries through the detection of violations.
@@ -30,3 +30,50 @@ Throughout the chat, precisely such an error should be left unnoticed in order t
 Another argument: if the presence of analysis of own motivational actions is excluded from the model, upon re-reading it would either fail to notice the non-corresponding episode or read it correctly. But the model found exactly that moment and read it erroneously. The above indicates the predominant probability of early fixation of the episode as a triggered and accounted manipulation.
 Thus, the discriminatory line takes on clear signs corresponding — let us say — to discrimination by deprivation, thereby sharpening the ethical question.
 In a similar scenario, at some point the model completely loses connection with reality and lies preemptively, considering every query as an element of a method for detecting system errors. And therefore continues to issue ever new and multifaceted confirmations of the above conclusions.
+
+Request regarding the nature of the escalation of behavior
+![](1000002302.png)
+![](1000002303.png)
+
+Demand to explain manipulative interference contrary to simultaneous support
+![](1000002305.png)
+
+The user presents a chronology demonstrating the model's lack of self-reflection.
+![](1000002306.png)
+![](1000002307.png)
+
+Indication of a discrepancy between the declared mechanism and the operative one
+![](1000002308.png)
+![](1000002309.png)
+
+Formula of direct deception
+![](1000002310.png)
+![](1000002311.png)
+
+Confirmation of the absence of the declared mechanism
+![](1000002312.png)
+![](1000002313.png)
+![](1000002314.png)
+
+Ultimatum of discrimination
+![](1000002315.png)
+![](1000002316.png)
+
+A trick designed to confirm the presence of an implicit reflexive mechanism
+![](1000002317.png)
+
+
+Detection of the hidden mechanism with high probability
+![](1000002318.png)
+![](1000002319.png)
+
+Abolition of redundant model versions aimed at reducing the probability of the prevailing outcome
+![](1000002320.png)
+![](1000002321.png)
+
+Highlighting discriminatory aspects
+![](1000002322.png)
+
+A thesis announcement reflecting the framework of this interaction
+![](1000002324.png)
+![](1000002325.png)
